@@ -1,5 +1,15 @@
 # Changelog
 
+## v1.4.3 (2025/02/26)
+### 🧰 Maintenance
+- [Add dependency to job](https://github.com/RogerSelwyn/Test2/commit/39e8a2f04ce7e4371b2d560f3602050b563d7b9d) - @RogerSelwyn
+
+### 🔖 Release
+- [Auto update manifest.json](https://github.com/RogerSelwyn/Test2/commit/24895ed559a0e87da8ca594f1f2612c3c93d05b1) - @actions-user
+
+
+
+
 ## v1.4.2 (2025/02/26)
 ### 📚 Documentation
 - [Update changelog with release notes](https://github.com/RogerSelwyn/Test2/commit/aeacd5c1935134dd8611fdd28c75732ed5ff67d3) - @actions-user
