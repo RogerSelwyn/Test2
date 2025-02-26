@@ -1,5 +1,28 @@
 # Changelog
 
+## v1.4.2 (2025/02/26)
+### 📚 Documentation
+- [Update changelog with release notes](https://github.com/RogerSelwyn/Test2/commit/aeacd5c1935134dd8611fdd28c75732ed5ff67d3) - @actions-user
+
+### ✅ Test
+- [Test changelog mods](https://github.com/RogerSelwyn/Test2/commit/0c211105a55580491eb16892abcdd8b84da73262) - @RogerSelwyn
+
+### 🔖 Release
+- [Auto update manifest.json](https://github.com/RogerSelwyn/Test2/commit/3a7e9b446bc20ed8f6513fd4c12f71c48aa6eed6) - @actions-user
+
+
+
+
+## v1.4.2 (2025/02/26)
+### ✅ Test
+- [Test changelog mods](https://github.com/RogerSelwyn/Test2/commit/0c211105a55580491eb16892abcdd8b84da73262) - @RogerSelwyn
+
+### 🔖 Release
+- [Auto update manifest.json](https://github.com/RogerSelwyn/Test2/commit/3a7e9b446bc20ed8f6513fd4c12f71c48aa6eed6) - @actions-user
+
+
+
+
 
 ## v1.4.1 (2025/02/24)
 ### 🐛 Fixes
