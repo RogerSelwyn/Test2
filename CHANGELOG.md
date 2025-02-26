@@ -1,5 +1,6 @@
 # Changelog
 
+
 ## v1.4.1 (2025/02/24)
 ### 🐛 Fixes
 - [Ensure timezone is set on protocol](https://github.com/RogerSelwyn/MS365-Calendar/commit/d2b937378a6fcd9f18fc17346a746687a2b1c6a5) - @RogerSelwyn
